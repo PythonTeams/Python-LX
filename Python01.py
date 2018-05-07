@@ -10,7 +10,7 @@ print("来啊！王者荣耀看谁最坑队友")
 for i in range (10)
 	print("*",end="")
 
-
+print("python是一门高级语言")
 print("冲突合并")
 print("谁最坑？")
 
