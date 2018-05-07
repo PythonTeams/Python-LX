@@ -7,3 +7,9 @@ print("李振，我把first文件删了")
 print("哈哈，你赔我文件")
 print("we are team!")
 print("来啊！王者荣耀看谁最坑队友")
+for i in range (10)
+	print("*",end="")
+
+
+
+
